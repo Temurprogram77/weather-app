@@ -8,5 +8,6 @@ body {
     background: #222;
 }
 .card {
-    
+    width: 90%;
+    max-width: 470px;
 }
