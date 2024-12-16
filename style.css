@@ -24,24 +24,26 @@ body {
   justify-content: center;
 }
 .search input {
-    border: 0;
-    outline: 0;
-    background: #ebfffc;
-    color: #555;
-    padding: 10px 25px;
-    height: 60px;
-    border-radius: 30px;
-    flex: 1;
-    margin-right: 16px;
-    font-size: 18px;
+  border: 0;
+  outline: 0;
+  background: #ebfffc;
+  color: #555;
+  padding: 10px 25px;
+  height: 60px;
+  border-radius: 30px;
+  flex: 1;
+  margin-right: 16px;
+  font-size: 18px;
 }
 .search button {
-    bottom: 0;
-    outline: 0;
-    background: #ebfffc;
-    border-radius: 50%;
-    cursor: pointer;
-    width: 60px;
-    height: 60px;
+  border: 0;
+  outline: 0;
+  background: #ebfffc;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 60px;
+  height: 60px;
 }
-
+.search button img {
+  width: 20px;
+}
