@@ -6,6 +6,7 @@
 }
 body {
   background: #222;
+  cursor: url('images/humidity.png'), auto;
 }
 .card {
   width: 90%;
