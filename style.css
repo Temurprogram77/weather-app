@@ -76,6 +76,7 @@ body {
   width: 40px;
   margin-right: 10px;
 }
-.humidity {
-  
+.humidity, .wind {
+  font-size: 20px;
+  margin-top: -6px;
 }
