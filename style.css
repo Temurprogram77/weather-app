@@ -6,7 +6,7 @@
 }
 body {
   background: #222;
-  cursor: url('images/image.png'), auto;
+  cursor: url('images/image.png'), ;
 }
 .card {
   width: 90%;
